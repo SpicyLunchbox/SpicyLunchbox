@@ -39,6 +39,10 @@
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=westonwoodard28@gmail.com&su=SUBJECT&body=BODY&tf=cm
 [linkedin]: https://www.linkedin.com/in/weston-woodard-76709988/
 
+[![Weston's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpicyLunchbox)](https://github.com/SpicyLunchbox/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpicyLunchbox)](https://github.com/SpicyLunchbox/github-readme-stats)
+
 <!--
 **SpicyLunchbox/SpicyLunchbox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
