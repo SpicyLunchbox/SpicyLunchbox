@@ -1,11 +1,11 @@
-### Hello, I'm Weston a Full Stack Web Developer👋
+### Hello, I'm Weston, a Full Stack Web Developer👋
 
 
 
-## I'm a Pilot, Reader, Hiker, and Full Stack Web Developer!!
+## I'm a Pilot, Reader, Hiker, and Full Stack Web Developer!
 
-- 🌱 I’m currently working on a non-profit project with Lambda Labs
-- 🥅 2020 Goals: Graduate from Lambda School and get a developer job
+- 🌱 I’m currently working on a non-profit project with Family Promises
+- 🥅 2021 Goals: Graduate from Lambda School and move my career forward as a developer
 
 ### Connect with me:
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
-## Tools Skills:
+## Other Skills:
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
