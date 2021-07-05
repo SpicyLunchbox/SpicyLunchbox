@@ -4,7 +4,7 @@
 
 ## I'm a Pilot, Reader, Hiker, and Full Stack Web Developer!
 
-- 🌱 I’m currently working on some self projects involving Redux
+- 🌱 I’m building some self projects involving Redux
 - 🥅 2021 Goals: Currently looking for work that moves my career forward as a developer
 
 ### Connect with me:
