@@ -4,8 +4,8 @@
 
 ## I'm a Pilot, Reader, Hiker, and Full Stack Web Developer!
 
-- 🌱 I’m currently working on a non-profit project with Family Promises
-- 🥅 2021 Goals: Graduate from Lambda School and move my career forward as a developer
+- 🌱 I’m currently working on some self projects involving Redux
+- 🥅 2021 Goals: Currently looking for work that moves my career forward as a developer
 
 ### Connect with me:
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
