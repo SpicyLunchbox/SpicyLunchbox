@@ -5,7 +5,7 @@
 ## I'm a Pilot, Reader, Hiker, and Full Stack Web Developer!
 
 - 🌱 I’m building some self projects involving Redux
-- 🥅 2021 Goals: Currently looking for work that moves my career forward as a developer
+- 🥅 2021 Goals: Develop proficiency with Vue.js
 
 ### Connect with me:
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
