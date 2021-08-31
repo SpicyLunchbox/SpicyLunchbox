@@ -4,7 +4,7 @@
 
 ## I'm a Pilot, Reader, Hiker, and Full Stack Web Developer!
 
-- 🌱 I’m building some self projects involving Redux
+- 🌱 I’m working with ASR Analytics as a Web Developer
 - 🥅 2021 Goals: Develop proficiency with Vue.js
 
 ### Connect with me:
