@@ -1,4 +1,4 @@
-### Hello, I'm Weston, a Full Stack Web Developer👋
+### Hello, I'm Weston!
 
 
 
