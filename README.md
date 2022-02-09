@@ -4,7 +4,7 @@
 
 ## I'm a Pilot, Reader, and Software Engineer
 
-- 🌱 I’m working with Slalom Build as a Software Engineer
+- 🌱 I’m currently working with Slalom Build as a Software Engineer
 - 🥅 2022 Goals: Continue developement as a mid-level engineer
 
 ### Connect with me:
@@ -28,6 +28,8 @@
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
+![SQL](https://img.shields.io/badge/SQL-2E3440?style=for-the-badge&logo=sql)
+![NoSQL](https://img.shields.io/badge/NoSQL-2E3440?style=for-the-badge&logo=nosql)
 ## Other Skills:
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
