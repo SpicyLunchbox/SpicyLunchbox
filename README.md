@@ -2,10 +2,10 @@
 
 
 
-## I'm a Pilot, Reader, Hiker, and Full Stack Web Developer!
+## I'm a Pilot, Reader, and Software Engineer
 
-- 🌱 I’m working with ASR Analytics as a Web Developer
-- 🥅 2021 Goals: Develop proficiency with Vue.js
+- 🌱 I’m working with Slalom Build as a Software Engineer
+- 🥅 2022 Goals: Continue developement as a mid-level engineer
 
 ### Connect with me:
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
@@ -20,6 +20,9 @@
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
 ![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
+![Vue](https://img.shields.io/badge/Vue-2E3440?style=for-the-badge&logo=vue)
+![Vuex](https://img.shields.io/badge/Vuex-2E3440?style=for-the-badge&logo=vuex)
+![Nuxt](https://img.shields.io/badge/Nuxt-2E3440?style=for-the-badge&logo=nuxt)
 ## Back End Skills:
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
