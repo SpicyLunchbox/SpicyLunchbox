@@ -24,12 +24,14 @@
 ![Vuex](https://img.shields.io/badge/Vuex-2E3440?style=for-the-badge&logo=vuex)
 ![Nuxt](https://img.shields.io/badge/Nuxt-2E3440?style=for-the-badge&logo=nuxt)
 ## Back End Skills:
-![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
+![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
 ![SQL](https://img.shields.io/badge/SQL-2E3440?style=for-the-badge&logo=sql)
 ![NoSQL](https://img.shields.io/badge/NoSQL-2E3440?style=for-the-badge&logo=nosql)
+![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
+
+
 ## Other Skills:
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
