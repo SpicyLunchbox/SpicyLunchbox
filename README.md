@@ -8,7 +8,6 @@
 - 🥅 2022 Goals: Continue developement as a mid-level engineer
 
 ### Connect with me:
-[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\linkedin.png" />][linkedin]
 <br />
 <!-- Skill Badges -->
