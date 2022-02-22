@@ -12,7 +12,7 @@
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\linkedin.png" />][linkedin]
 <br />
 <!-- Skill Badges -->
-## Front End Skills:
+## Front End Experience:
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-2E3440?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
@@ -23,7 +23,7 @@
 ![Vue](https://img.shields.io/badge/Vue-2E3440?style=for-the-badge&logo=vue)
 ![Vuex](https://img.shields.io/badge/Vuex-2E3440?style=for-the-badge&logo=vuex)
 ![Nuxt](https://img.shields.io/badge/Nuxt-2E3440?style=for-the-badge&logo=nuxt)
-## Back End Skills:
+## Back End Experience:
 ![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
