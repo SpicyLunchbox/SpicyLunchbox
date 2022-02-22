@@ -32,7 +32,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 
 
-## Other Skills:
+## Other Experience:
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
