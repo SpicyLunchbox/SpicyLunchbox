@@ -1,12 +1,5 @@
 ### Hello, I'm Weston!
 
-
-
-## I'm a Pilot, Reader, and Software Engineer
-
-- 🌱 I’m currently working with Slalom Build as a Software Engineer
-- 🥅 2022 Goals: Continue developement as a mid-level engineer
-
 ### Connect with me:
 [<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\linkedin.png" />][linkedin]
 <br />
